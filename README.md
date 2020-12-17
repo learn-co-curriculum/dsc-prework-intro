@@ -28,7 +28,7 @@ In general, think of the online material as the "textbook" that you'll read befo
 
 Typically when learning something about code, you have to first deal with configuring your computer, getting it set up to work with the programming language you're writing in. This is often referred to as *setting up your environment*. You will have to do this eventually, but for now, **Canvas + IllumiDesk** will provide the environment you need to get started. We will give you a place to code within the browser; you get to focus on coding, not setup.
 
-The next lesson will cover how to use the Canvas + IllumiDesk, including the different types of lessons, how to open lessons in IllumiDesk, and how to view solution code.
+The next lesson will cover how to use Canvas + IllumiDesk, including the different types of lessons, how to open lessons in IllumiDesk, and how to view solution code.
 
 ## Learning Methods
 
@@ -55,7 +55,7 @@ Here are some best practices to follow when working through this material:
 
 In this prework course you'll be introduced to some of the technical content and the delivery format used in the main Data Science course.
 
-Not only does completing the prework allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers.
+Not only does completing the prework allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers.
 
 Be intentional with your strategy as you move through the material, particularly how you use the solution code. We'll explain how to access that solution code in the next lesson.
 
