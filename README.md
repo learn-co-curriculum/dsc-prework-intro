@@ -8,6 +8,12 @@ We've set up a "prework" course for you to complete before your first day of the
 
 This material is intended to help you prepare for the program, with an introduction to both the **technical content** and the **delivery format** you'll be using at Flatiron School.
 
+Many people in our program have already spent some time dabbling with coding and data analysis by using the amazing and plentiful resources all around the internet. In developing the content here, though, we make no assumptions about background. This prework content is designed for those who have analytic ability but not any specific coding skill. Lessons build off each other, providing the tools and concepts necessary to complete future lessons.
+
+What we don't do, however, is dumb anything down. We believe in your infinite capacity to learn. We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter at Flatiron School is rigorous and will demand that you be patient, resourceful, and gritty.
+
+From the beginning, we'll make sure you have the support and tools you need; you just need to bring the grit.
+
 ### Technical Content
 
 The prework course focuses on foundational content that comes up again and again in the Data Science program:
