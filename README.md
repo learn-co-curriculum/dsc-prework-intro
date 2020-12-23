@@ -36,6 +36,16 @@ Typically when learning something about code, you have to first deal with config
 
 The next lesson will cover how to use Canvas + IllumiDesk, including the different types of lessons, how to open lessons in IllumiDesk, and how to view solution code.
 
+For now, all you need to know is that every time you complete a lesson on Canvas — including this one! — you should click the "Mark as Done" button button on that page, so we can track your progress.
+
+Before clicking, the button should look like this:
+
+![mark as done button](images/mark_as_done.png)
+
+After clicking, it should look like this:
+
+![done button](images/done.png)
+
 ## Learning Methods
 
 Here are some best practices to follow when working through this material:
