@@ -8,13 +8,13 @@ We've set up a "prework" course for you to complete before your first day of the
 
 This material is intended to help you prepare for the program, with an introduction to both the **technical content** and the **delivery format** you'll be using at Flatiron School.
 
+### Technical Content
+
 Many people in our program have already spent some time dabbling with coding and data analysis by using the amazing and plentiful resources all around the internet. In developing the content here, though, we make no assumptions about background. This prework content is designed for those who have analytic ability but not any specific coding skill. Lessons build off each other, providing the tools and concepts necessary to complete future lessons.
 
 What we don't do, however, is dumb anything down. We believe in your infinite capacity to learn. We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter at Flatiron School is rigorous and will demand that you be patient, resourceful, and gritty.
 
 From the beginning, we'll make sure you have the support and tools you need; you just need to bring the grit.
-
-### Technical Content
 
 The prework course focuses on foundational content that comes up again and again in the Data Science program:
 
@@ -22,9 +22,7 @@ The prework course focuses on foundational content that comes up again and again
  - Descriptive statistics
  - Python libraries (NumPy and Matplotlib) for numerical computing and data visualization
 
-Working through this prework material is not *required*, but it is **extremely** highly-recommended. When we ask alumni and current students what they wish they had done differently, one of the most common answers is not investing enough time in these foundational skills!
-
-If you're getting stuck, keep in mind that we will also cover these topics in the first week or so of the Data Science program. Make sure you keep notes on what was confusing, and prepare to ask questions when the program starts.
+If you're getting stuck, keep in mind that we will also review these topics in the first week or so of the Data Science program. Make sure you keep notes on what was confusing, and prepare to ask questions when the program starts.
 
 ### Delivery Format
 
@@ -36,7 +34,7 @@ Typically when learning something about code, you have to first deal with config
 
 The next lesson will cover how to use Canvas + IllumiDesk, including the different types of lessons, how to open lessons in IllumiDesk, and how to view solution code.
 
-For now, all you need to know is that every time you complete a lesson on Canvas — including this one! — you should click the "Mark as Done" button on that page, so we can track your progress.
+For now, all you need to know is that every time you complete a lesson on Canvas — including this one! — you should click the "Mark as done" button on that page, so we can track your progress.
 
 Before clicking, the button should look like this:
 
@@ -46,13 +44,41 @@ After clicking, it should look like this:
 
 ![done button](images/done.png)
 
+## Prework Expectations for Students
+
+### Required Lesson Completion
+
+Prework is the first **required** element of our data science curriculum. You are expected to complete, at minimum, all lessons through the end of the Statistical Measures section.
+
+The way we **measure** lesson completion is based on you **clicking the "Mark as done" button** (pictured above) for each lesson. Don't worry too much about understanding 100% of the lesson content, and feel free to click the button once you've made a reasonable attempt — you can always come back and re-read it later.
+
+The time you spend on each lesson (reading content, writing code, etc.) is up to you — in theory, you could click through the entire prework course and never actually do any of the lessons. But you should be aware, when we ask alumni and current students what they wish they had done differently, one of the most common answers is not investing enough time in these foundational skills!
+
+### Required Post-Test
+
+Once you have completed all lessons in the Statistical Measures section (as well as all lessons that come before it), the Assessment section will unlock. This section contains a single quiz: the post-test.
+
+The goal of the post-test is checking your understanding of the material, for both you and your Flatiron School instructors. After taking it, you will be able to see whether your answers were correct, along with explanations for each question.
+
+You are not required to score a particular number of points on the post-test prior to starting the program. The post-test is a diagnostic assessment that can help you understand what to study during the time before the program starts, and to help Flatiron School understand what kind of support you will need.
+
+Note: While you are not *required* to complete the Data Visualization section prior to taking the assessment, the assessment will include some questions about data visualization. If this is a new topic for you, or you're feeling "rusty", we encourage you to complete all sections before taking the post-test.
+
+#### Troubleshooting Post-Test Access
+
+If you think that the post-test should be unlocked but are having trouble accessing it, double-check that you have completed all of the prerequisites. In other words, the Introduction, Python Essentials, Python Loops & Functions, and Statistical Measures sections should all look like this:
+
+![section completed](images/section_completed.png)
+
+If you don't see the green check mark, it means you haven't completed that section. In order to access the post-test, make sure you have marked everything as done.
+
+If this doesn't resolve your issue, you will be able to take the post-test on Day 1 of the program, with teacher troubleshooting support.
+
 ## Learning Methods
 
 Here are some best practices to follow when working through this material:
 
 - Work through each section, **enough that you can remember the material**, before moving on to the next section. **This may require repeating specific labs**.  
-
-- Type every line of code you read or write 5 separate times.  (This may seem repetitive or unnecessary, but a large part of coding is getting the "muscle memory" of specific code into your fingers!)
 
 - Say out loud what each piece of code is doing.  Part of learning to code is seeing the narrative of what is going on instead of just lines of specific instructions.
   - For example, for ```x = [5,6,7]``` you would say, out loud, "a list of integers from 5 to 7 is assigned to a variable named 'x' "
@@ -62,8 +88,6 @@ Here are some best practices to follow when working through this material:
 - If you can't figure out why your code isn't working, look back to the section of prework that teaches that code, or try googling for information about the specific syntax you're trying to use.  ("90% of programming is googling StackOverflow").  
     
 - If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the solutions for the entire lab.
-
-- For every solution you see, type out the code 5 times and say what the code is doing out loud!
 
 - In coding in general and Python specifically, there are lots of ways to accomplish any given task.  It is a common occurrence to encounter code in the solutions that accomplishes the same result as the code you wrote but in a different way.  Your code isn't necessarily wrong just because it's different from the solution!  Consider why the solution code might be written differently than your code, even though it accomplishes the same thing.  
   
