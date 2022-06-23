@@ -95,7 +95,7 @@ Here are some best practices to follow when working through this material:
 
 In this prework course you'll be introduced to some of the technical content and the delivery format used in the main Data Science course.
 
-Not only does completing the prework allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers.
+Not only does completing the prework allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have better projects going forward.
 
 Be intentional with your strategy as you move through the material, particularly how you use the solution code. We'll explain how to access that solution code in the next lesson.
 
