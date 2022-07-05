@@ -1,22 +1,22 @@
-# Welcome to Prework!
+# Welcome to Prep!
 
 Welcome to Flatiron School! We're thrilled that you've joined our community of learners!
 
-## Goals of Prework
+## Goals of Prep
 
-We've set up a "prework" course for you to complete before your first day of the Data Science bootcamp.
+We've set up a "prep" course for you to complete before your first day of the Data Science bootcamp.
 
 This material is intended to help you prepare for the program, with an introduction to both the **technical content** and the **delivery format** you'll be using at Flatiron School.
 
 ### Technical Content
 
-Many people in our program have already spent some time dabbling with coding and data analysis by using the amazing and plentiful resources all around the internet. In developing the content here, though, we make no assumptions about background. This prework content is designed for those who have analytic ability but not any specific coding skill. Lessons build off each other, providing the tools and concepts necessary to complete future lessons.
+Many people in our program have already spent some time dabbling with coding and data analysis by using the amazing and plentiful resources all around the internet. In developing the content here, though, we make no assumptions about background. This prep content is designed for those who have analytic ability but not any specific coding skill. Lessons build off each other, providing the tools and concepts necessary to complete future lessons.
 
 What we don't do, however, is dumb anything down. We believe in your infinite capacity to learn. We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter at Flatiron School is rigorous and will demand that you be patient, resourceful, and gritty.
 
 From the beginning, we'll make sure you have the support and tools you need; you just need to bring the grit.
 
-The prework course focuses on foundational content that comes up again and again in the Data Science program:
+The prep course focuses on foundational content that comes up again and again in the Data Science program:
 
  - Python fundamentals
  - Descriptive statistics
@@ -26,7 +26,7 @@ If you're getting stuck, keep in mind that we will also review these topics in t
 
 ### Delivery Format
 
-In addition to covering technical topics, the prework is also intended to help you orient yourself to our curriculum delivery format.
+In addition to covering technical topics, the prep is also intended to help you orient yourself to our curriculum delivery format.
 
 In general, think of the online material as the "textbook" that you'll read before lectures and use to practice your Data Science skills.
 
@@ -44,15 +44,15 @@ After clicking, it should look like this:
 
 ![done button](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/done.png)
 
-## Prework Expectations for Students
+## Prep Expectations for Students
 
 ### Required Lesson Completion
 
-Prework is the first **required** element of our data science curriculum. You are expected to complete, at minimum, all lessons through the end of the Statistical Measures section.
+Prep is the first **required** element of our data science curriculum. You are expected to complete, at minimum, all lessons through the end of the Statistical Measures section.
 
 The way we **measure** lesson completion is based on you **clicking the "Mark as done" button** (pictured above) for each lesson. Don't worry too much about understanding 100% of the lesson content, and feel free to click the button once you've made a reasonable attempt — you can always come back and re-read it later.
 
-The time you spend on each lesson (reading content, writing code, etc.) is up to you — in theory, you could click through the entire prework course and never actually do any of the lessons. But you should be aware, when we ask alumni and current students what they wish they had done differently, one of the most common answers is not investing enough time in these foundational skills!
+The time you spend on each lesson (reading content, writing code, etc.) is up to you — in theory, you could click through the entire prep course and never actually do any of the lessons. But you should be aware, when we ask alumni and current students what they wish they had done differently, one of the most common answers is not investing enough time in these foundational skills!
 
 ### Required Post-Test
 
@@ -85,7 +85,7 @@ Here are some best practices to follow when working through this material:
     
 - Check the solutions only when you're done with the lab.  Remember, getting stuck and working through individual pieces of code and concepts is part of the process.  
     
-- If you can't figure out why your code isn't working, look back to the section of prework that teaches that code, or try googling for information about the specific syntax you're trying to use.  ("90% of programming is googling StackOverflow").  
+- If you can't figure out why your code isn't working, look back to the section of prep that teaches that code, or try googling for information about the specific syntax you're trying to use.  ("90% of programming is googling StackOverflow").  
     
 - If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the solutions for the entire lab.
 
@@ -93,10 +93,10 @@ Here are some best practices to follow when working through this material:
   
 ## Recap
 
-In this prework course you'll be introduced to some of the technical content and the delivery format used in the main Data Science course.
+In this prep course you'll be introduced to some of the technical content and the delivery format used in the main Data Science course.
 
-Not only does completing the prework allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers.
+Not only does completing the prep allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers.
 
 Be intentional with your strategy as you move through the material, particularly how you use the solution code. We'll explain how to access that solution code in the next lesson.
 
-Enjoy the prework, and good luck! 
+Enjoy the prep, and good luck! 
