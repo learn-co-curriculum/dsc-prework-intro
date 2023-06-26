@@ -1,6 +1,6 @@
-# Welcome to Prep!
+# Welcome to Prep.
 
-Welcome to Flatiron School! We're thrilled that you've joined our community of learners!
+Welcome to Flatiron School. We're thrilled that you've joined our community of learners.
 
 ## Goals of Prep
 
@@ -34,15 +34,15 @@ Typically when learning something about code, you have to first deal with config
 
 The next lesson will cover how to use Canvas + SaturnCloud, including the different types of lessons, how to open lessons in SaturnCLoud, and how to view solution code.
 
-For now, all you need to know is that every time you complete a lesson on Canvas — including this one! — you should click the "Mark as done" button on that page, so we can track your progress.
+For now, all you need to know is that every time you complete a lesson on Canvas — including this one. — you should click the "Mark as done" button on that page, so we can track your progress.
 
 Before clicking, the button should look like this:
 
-![mark as done button](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/mark_as_done.png)
+.[mark as done button](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/mark_as_done.png)
 
 After clicking, it should look like this:
 
-![done button](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/done.png)
+.[done button](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/done.png)
 
 ## Prep Expectations for Students
 
@@ -52,7 +52,7 @@ Prep is the first **required** element of our data science curriculum. You are e
 
 The way we **measure** lesson completion is based on you **clicking the "Mark as done" button** (pictured above) for each lesson. Don't worry too much about understanding 100% of the lesson content, and feel free to click the button once you've made a reasonable attempt — you can always come back and re-read it later.
 
-The time you spend on each lesson (reading content, writing code, etc.) is up to you — in theory, you could click through the entire prep course and never actually do any of the lessons. But you should be aware, when we ask alumni and current students what they wish they had done differently, one of the most common answers is not investing enough time in these foundational skills!
+The time you spend on each lesson (reading content, writing code, etc.) is up to you — in theory, you could click through the entire prep course and never actually do any of the lessons. But you should be aware, when we ask alumni and current students what they wish they had done differently, one of the most common answers is not investing enough time in these foundational skills.
 
 ### Required Post-Test
 
@@ -68,7 +68,7 @@ Note: While you are not *required* to complete the Data Visualization section pr
 
 If you think that the post-test should be unlocked but are having trouble accessing it, double-check that you have completed all of the prerequisites. In other words, the Introduction, Python Essentials, Python Loops & Functions, and Statistical Measures sections should all look like this:
 
-![section completed](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/section_completed.png)
+.[section completed](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/section_completed.png)
 
 If you don't see the green check mark, it means you haven't completed that section. In order to access the post-test, make sure you have marked everything as done.
 
@@ -89,10 +89,10 @@ Here are some best practices to follow when working through this material:
     
 - If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the solutions for the entire lab.
 
-- In coding in general and Python specifically, there are lots of ways to accomplish any given task.  It is a common occurrence to encounter code in the solutions that accomplishes the same result as the code you wrote but in a different way.  Your code isn't necessarily wrong just because it's different from the solution!  Consider why the solution code might be written differently than your code, even though it accomplishes the same thing.  
+- In coding in general and Python specifically, there are lots of ways to accomplish any given task.  It is a common occurrence to encounter code in the solutions that accomplishes the same result as the code you wrote but in a different way.  Your code isn't necessarily wrong just because it's different from the solution.  Consider why the solution code might be written differently than your code, even though it accomplishes the same thing.  
   
 ## Recap
 
 In this prep course you'll be introduced to some of the technical content and the delivery format used in the main Data Science course. Not only does completing the prep allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers. Be intentional with your strategy as you move through the material, particularly how you use the solution code. We'll explain how to access that solution code in the next lesson.
 
-Enjoy the prep, and good luck! 
+Enjoy the prep, and good luck. 
