@@ -1,4 +1,4 @@
-# Welcome to Prep.
+# Welcome to Prep
 
 Welcome to Flatiron School. We're thrilled that you've joined our community of learners.
 
