@@ -60,7 +60,7 @@ Once you have completed all lessons in the Statistical Measures section (as well
 
 The goal of the post-test is checking your understanding of the material, for both you and your Flatiron School instructors. After taking it, you will be able to see whether your answers were correct, along with explanations for each question.
 
-You are not required to score a particular number of points on the post-test prior to starting the program. The post-test is a diagnostic assessment that can help you understand what to study during the time before the program starts, and to help Flatiron School understand what kind of support you will need.
+You have three attempts to take this quiz.
 
 Note: While you are not *required* to complete the Data Visualization section prior to taking the assessment, the assessment will include some questions about data visualization. If this is a new topic for you, or you're feeling "rusty", we encourage you to complete all sections before taking the post-test.
 
